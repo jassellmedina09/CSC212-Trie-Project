@@ -6,11 +6,12 @@ A Trie (a digital tree or prefix trees) is a special data structure that stores 
 </p>
 
 ## Files: Overview
+### Text
 <p>
-
+ye
 </p>
 
 ## Usage: Instructions
 <p> 
-
+f
 </p>
