@@ -13,4 +13,4 @@ To run this program, follow these steps by inputting the following into your IDE
   Step 4: to view the Trie visualization, paste the content into the following webpage:\
     https://dreampuf.github.io/GraphvizOnline/#digraph%20G%20%7B%0A%0A%20%20l1%20-%3E%20l2%3B%0A%20%20l2%20-%3E%20l3%3B%0A%0A%7D\
     
-  All Done!\
+  All Done!
