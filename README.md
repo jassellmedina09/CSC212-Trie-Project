@@ -16,13 +16,19 @@ To run this program, follow these steps by inputting the following into your IDE
   All Done!
 
 ## Library Dependencies:
-
+- iostream
+- ctime (timing)
+- iomanip (precision)
+- vector (remove & sort)
+- cctype (alpha check)
+- string (letters)
+- sstream (manage strings)
 
 ## Methods:
--constructor/destructor
--insert
--insert from file
--search
--sort
--remove
--generate dotfile
+- Trie/Nodes constructor & destructor
+- insert
+- insert from file
+- search
+- sort
+- remove
+- generate DOTfile (visualization)
