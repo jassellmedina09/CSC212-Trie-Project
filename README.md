@@ -25,10 +25,10 @@ To run this program, follow these steps by inputting the following into your IDE
 - sstream (manage strings)
 
 ## Methods:
-- Trie/Nodes constructor & destructor
-- insert
-- insert from file
-- search
-- sort
-- remove
+- Trie/Nodes (constructor & destructor)
+- insert (insert words into the Trie)
+- insert from file (insert words from a file)
+- search (search for a word in the Trie)
+- sort (takes all the trie words and sorts them in lexicographical order by iterating through the trie and outputting to a specified file)
+- remove (removes a specified word from Trie)
 - generate DOTfile (visualization)
